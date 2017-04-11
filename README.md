@@ -62,7 +62,7 @@ customer_id,17,inquire,3696970704,saving_acct,MJQXLDJMQQOYAPFBBPBS,ATM,NCZHYDSTA
 * Easy Profiling
 * Wrangling data with Apache Spark
 # [Our work](https://github.com/thtang/HackNTU-X-/blob/master/Customer_profiling.pdf)
-
+<img src="https://scontent-tpe1-1.xx.fbcdn.net/v/t31.0-8/17807616_1450046888393614_1854729946685995425_o.jpg?oh=3d2272c538a9a0a5b3e304d5491a3436&oe=598527A4" width = "550"></img>
 ## Already installed libraries in VM
 ### Python 2.7
 #### sklearn, numpy, pandas, jupyter, networkx, keras, tensorflow, flask, django, xgboost
