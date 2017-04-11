@@ -61,6 +61,7 @@ customer_id,17,inquire,3696970704,saving_acct,MJQXLDJMQQOYAPFBBPBS,ATM,NCZHYDSTA
 ## example
 * Easy Profiling
 * Wrangling data with Apache Spark
+# [Our work](https://github.com/thtang/HackNTU-X-/blob/master/Customer_profiling.pdf)
 
 ## Already installed libraries in VM
 ### Python 2.7
